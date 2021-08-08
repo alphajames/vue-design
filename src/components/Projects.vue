@@ -1,5 +1,5 @@
 <template>
-  <div class="row container-padding" id="projects">
+  <div class="row container-padding font-poppins" id="projects">
     <!-- START COL 1  -->
     <div class="col-xl-6 margin-top d-flex flex-column">
       <h1 class="font-700 text-7xl mobile-4xl mb-5">
