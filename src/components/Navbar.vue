@@ -21,7 +21,7 @@
                     <a class="nav-link" href="#contacts"><span class="font-black">contacts</span></a>
                   </li>
                   <li class="nav-item ps-3">
-                    <a class="nav-link" href="https://drive.google.com/file/d/1Fd6KfjZd9-RnmrSlHLDEdcQUvCmik7ak/view" target="_blank"><span class="font-black font-500 border-orange">resume</span></a>
+                    <a class="nav-link" href="https://drive.google.com/file/d/131F7Vg_3zhZIufTRLf8bnC5HEtiNS0-s/view" target="_blank"><span class="font-black font-500 border-orange">resume</span></a>
                   </li>
                   </ul>
                   </div>
